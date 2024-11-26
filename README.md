@@ -11497,3 +11497,7 @@ endfacet
 endsolid 
 
 ```
+
+<p align="center">
+ <i>Model is interactive, use mouse to rotate a model.</i>
+</p>
